@@ -5,7 +5,7 @@ packaging_format = 2
 id = "zoraxy"
 name = "Zoraxy"
 description.en = "General purpose HTTP reverse proxy and forwarding tool"
-description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+description.fr = "Outil de proxy inverse et de transfert HTTP à usage général"
 
 version = "3.1.1~ynh1"
 
@@ -19,7 +19,7 @@ admindoc = "https://yunohost.org/packaging_apps"
 code = "https://github.com/tobychui/zoraxy"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 11.2.30"
 architectures = "all"
 multi_instance = true
 
