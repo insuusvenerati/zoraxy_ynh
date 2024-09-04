@@ -1,0 +1,61 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
+packaging_format = 2
+
+id = "zoraxy"
+name = "Zoraxy"
+description.en = "General purpose HTTP reverse proxy and forwarding tool"
+description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+
+version = "3.1.1~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "AGPL-3.0"
+website = "https://zoraxy.arozos.com/index.html"
+demo = "https://demo.example.com"
+admindoc = "https://yunohost.org/packaging_apps"
+code = "https://github.com/tobychui/zoraxy"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+    [resources.sources]
+
+    [resources.sources.main]
+    in_subdir = false
+    extract = false
+    rename = "zoraxy"
+    url = "https://github.com/tobychui/zoraxy/releases/download/3.1.1/zoraxy_linux_amd64"
+    sha256 = "3b6c237cea18f4bd9b0db79400d8bf24fc3d1f3ec5e6fa745eec8b8407a4f949"
+
+    # autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.ports]
