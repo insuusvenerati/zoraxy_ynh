@@ -16,7 +16,7 @@ NON debe editarse manualmente.
 
 ## Vista xeral
 
-This is a dummy description of this app features
+Zoraxy is a new kid in reverse-proxy world written in Go, designed to simplify and streamline web routing and proxying. Zoraxy simplifies the process of setting up a reverse proxy, It serves as an intermediary between client requests and backend servers, effectively managing traffic flow. Whether you're running a small personal website or managing a complex web infrastructure, Zoraxy is designed to make these tasks accessible to all, regardless of your networking expertise.
 
 
 **Versión proporcionada:** 3.1.1~ynh1
