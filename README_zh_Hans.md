@@ -16,12 +16,10 @@
 
 ## 概况
 
-This is a dummy description of this app features
+Zoraxy is a new kid in reverse-proxy world written in Go, designed to simplify and streamline web routing and proxying. Zoraxy simplifies the process of setting up a reverse proxy, It serves as an intermediary between client requests and backend servers, effectively managing traffic flow. Whether you're running a small personal website or managing a complex web infrastructure, Zoraxy is designed to make these tasks accessible to all, regardless of your networking expertise.
 
 
 **分发版本：** 3.1.1~ynh1
-
-**演示：** <https://demo.example.com>
 
 ## 截图
 
@@ -30,7 +28,7 @@ This is a dummy description of this app features
 ## 文档与资源
 
 - 官方应用网站： <https://zoraxy.arozos.com/index.html>
-- 官方管理文档： <https://yunohost.org/packaging_apps>
+- 官方管理文档： <https://github.com/tobychui/zoraxy/wiki/Getting-Started>
 - 上游应用代码库： <https://github.com/tobychui/zoraxy>
 - YunoHost 商店： <https://apps.yunohost.org/app/zoraxy>
 - 报告 bug： <https://github.com/YunoHost-Apps/zoraxy_ynh/issues>

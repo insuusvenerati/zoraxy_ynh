@@ -16,12 +16,10 @@ Ini TIDAK boleh diedit dengan tangan.
 
 ## Ringkasan
 
-This is a dummy description of this app features
+Zoraxy is a new kid in reverse-proxy world written in Go, designed to simplify and streamline web routing and proxying. Zoraxy simplifies the process of setting up a reverse proxy, It serves as an intermediary between client requests and backend servers, effectively managing traffic flow. Whether you're running a small personal website or managing a complex web infrastructure, Zoraxy is designed to make these tasks accessible to all, regardless of your networking expertise.
 
 
 **Versi terkirim:** 3.1.1~ynh1
-
-**Demo:** <https://demo.example.com>
 
 ## Tangkapan Layar
 
@@ -30,7 +28,7 @@ This is a dummy description of this app features
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://zoraxy.arozos.com/index.html>
-- Dokumentasi admin resmi: <https://yunohost.org/packaging_apps>
+- Dokumentasi admin resmi: <https://github.com/tobychui/zoraxy/wiki/Getting-Started>
 - Depot kode aplikasi hulu: <https://github.com/tobychui/zoraxy>
 - Gudang YunoHost: <https://apps.yunohost.org/app/zoraxy>
 - Laporkan bug: <https://github.com/YunoHost-Apps/zoraxy_ynh/issues>
