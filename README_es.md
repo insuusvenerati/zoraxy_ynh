@@ -21,8 +21,6 @@ Zoraxy is a new kid in reverse-proxy world written in Go, designed to simplify a
 
 **Versión actual:** 3.1.1~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Capturas
 
 ![Captura de Zoraxy](./doc/screenshots/screenshot.png)
@@ -30,7 +28,7 @@ Zoraxy is a new kid in reverse-proxy world written in Go, designed to simplify a
 ## Documentaciones y recursos
 
 - Sitio web oficial: <https://zoraxy.arozos.com/index.html>
-- Documentación administrador oficial: <https://yunohost.org/packaging_apps>
+- Documentación administrador oficial: <https://github.com/tobychui/zoraxy/wiki/Getting-Started>
 - Repositorio del código fuente oficial de la aplicación : <https://github.com/tobychui/zoraxy>
 - Catálogo YunoHost: <https://apps.yunohost.org/app/zoraxy>
 - Reportar un error: <https://github.com/YunoHost-Apps/zoraxy_ynh/issues>
