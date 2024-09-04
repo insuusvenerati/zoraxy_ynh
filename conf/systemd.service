@@ -1,5 +1,5 @@
 [Unit]
-Description=Zoraxy
+Description=Zoraxy: Reverse proxy and forwarding tool
 After=network.target
 
 [Service]
