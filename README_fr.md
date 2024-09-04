@@ -21,8 +21,6 @@ Zoraxy est un nouveau venu dans le monde des proxys inverses écrit en Go, conç
 
 **Version incluse :** 3.1.1~ynh1
 
-**Démo :** <https://demo.example.com>
-
 ## Captures d’écran
 
 ![Capture d’écran de Zoraxy](./doc/screenshots/screenshot.png)
@@ -30,7 +28,7 @@ Zoraxy est un nouveau venu dans le monde des proxys inverses écrit en Go, conç
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://zoraxy.arozos.com/index.html>
-- Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
+- Documentation officielle de l’admin : <https://github.com/tobychui/zoraxy/wiki/Getting-Started>
 - Dépôt de code officiel de l’app : <https://github.com/tobychui/zoraxy>
 - YunoHost Store : <https://apps.yunohost.org/app/zoraxy>
 - Signaler un bug : <https://github.com/YunoHost-Apps/zoraxy_ynh/issues>
