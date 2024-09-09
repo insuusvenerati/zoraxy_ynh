@@ -35,7 +35,7 @@ Zoraxy is a new kid in reverse-proxy world written in Go, designed to simplify a
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/zoraxy_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/zoraxy_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
