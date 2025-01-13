@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Zoraxy for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/zoraxy.svg)](https://ci-apps.yunohost.org/ci/apps/zoraxy/) ![Working status](https://ci-apps.yunohost.org/ci/badges/zoraxy.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/zoraxy.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/zoraxy)](https://ci-apps.yunohost.org/ci/apps/zoraxy/)
+![Working status](https://apps.yunohost.org/badge/state/zoraxy)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/zoraxy)
 
 [![Install Zoraxy with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zoraxy)
 

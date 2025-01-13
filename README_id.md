@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Zoraxy untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/zoraxy.svg)](https://ci-apps.yunohost.org/ci/apps/zoraxy/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/zoraxy.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/zoraxy.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/zoraxy)](https://ci-apps.yunohost.org/ci/apps/zoraxy/)
+![Status kerja](https://apps.yunohost.org/badge/state/zoraxy)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/zoraxy)
 
 [![Pasang Zoraxy dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zoraxy)
 

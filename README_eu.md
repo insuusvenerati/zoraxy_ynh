@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Zoraxy YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/zoraxy.svg)](https://ci-apps.yunohost.org/ci/apps/zoraxy/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/zoraxy.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/zoraxy.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/zoraxy)](https://ci-apps.yunohost.org/ci/apps/zoraxy/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/zoraxy)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/zoraxy)
 
 [![Instalatu Zoraxy YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zoraxy)
 

@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Zoraxy voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/zoraxy.svg)](https://ci-apps.yunohost.org/ci/apps/zoraxy/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/zoraxy.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/zoraxy.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/zoraxy)](https://ci-apps.yunohost.org/ci/apps/zoraxy/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/zoraxy)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/zoraxy)
 
 [![Zoraxy met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zoraxy)
 

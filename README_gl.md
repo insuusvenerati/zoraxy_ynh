@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # Zoraxy para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/zoraxy.svg)](https://ci-apps.yunohost.org/ci/apps/zoraxy/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/zoraxy.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/zoraxy.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/zoraxy)](https://ci-apps.yunohost.org/ci/apps/zoraxy/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/zoraxy)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/zoraxy)
 
 [![Instalar Zoraxy con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zoraxy)
 

@@ -5,7 +5,9 @@
 
 # Zoraxy для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/zoraxy.svg)](https://ci-apps.yunohost.org/ci/apps/zoraxy/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/zoraxy.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/zoraxy.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/zoraxy)](https://ci-apps.yunohost.org/ci/apps/zoraxy/)
+![Состояние работы](https://apps.yunohost.org/badge/state/zoraxy)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/zoraxy)
 
 [![Установите Zoraxy с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=zoraxy)
 
