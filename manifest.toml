@@ -19,7 +19,7 @@ code = "https://github.com/tobychui/zoraxy"
 
 [integration]
 yunohost = ">= 11.2.30"
-architectures = "all"
+architectures = ["i386", "amd64", "armhf", "arm64"]
 multi_instance = true
 
 ldap = false
@@ -45,10 +45,20 @@ ram.runtime = "50M"
     in_subdir = false
     extract = false
     rename = "zoraxy"
-    url = "https://github.com/tobychui/zoraxy/releases/download/3.1.1/zoraxy_linux_amd64"
-    sha256 = "3b6c237cea18f4bd9b0db79400d8bf24fc3d1f3ec5e6fa745eec8b8407a4f949"
+    amd64.url = "https://github.com/tobychui/zoraxy/releases/download/3.1.1/zoraxy_linux_amd64"
+    amd64.sha256 = "3b6c237cea18f4bd9b0db79400d8bf24fc3d1f3ec5e6fa745eec8b8407a4f949"
+    i386.url = ""
+    i386.sha256 = ""
+    armhf.url = ""
+    armhf.sha256 = ""
+    arm64.url = ""
+    arm64.sha256 = ""
 
-    # autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_release"
+    autoupdate.asset.i386 = "^zoraxy_linux_386$"
+    autoupdate.asset.amd64 = "^zoraxy_linux_amd64$"
+    autoupdate.asset.armhf = "^zoraxy_linux_arm$"
+    autoupdate.asset.arm64 = "^zoraxy_linux_arm64$"
 
     [resources.system_user]
 
