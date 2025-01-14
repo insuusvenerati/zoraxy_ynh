@@ -21,7 +21,7 @@ Il NE doit PAS être modifié à la main.
 Zoraxy est un nouveau venu dans le monde des proxys inverses écrit en Go, conçu pour simplifier et rationaliser le routage et le proxy Web. Zoraxy simplifie le processus de configuration d'un proxy inverse. Il sert d'intermédiaire entre les demandes des clients et les serveurs principaux, gérant efficacement le flux de trafic. Que vous exploitiez un petit site Web personnel ou que vous gériez une infrastructure Web complexe, Zoraxy est conçu pour rendre ces tâches accessibles à tous, quelle que soit votre expertise en réseau.
 
 
-**Version incluse :** 3.1.1~ynh1
+**Version incluse :** 3.1.6~ynh1
 
 ## Captures d’écran
 
