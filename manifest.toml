@@ -7,7 +7,7 @@ name = "Zoraxy"
 description.en = "General purpose HTTP reverse proxy and forwarding tool"
 description.fr = "Outil de proxy inverse et de transfert HTTP à usage général"
 
-version = "3.1.1~ynh1"
+version = "3.1.8~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -20,7 +20,7 @@ code = "https://github.com/tobychui/zoraxy"
 [integration]
 yunohost = ">= 12.0.9"
 helpers_version = "2.1"
-architectures = ["i386", "amd64", "armhf", "arm64"]
+architectures = ["amd64"]
 multi_instance = true
 
 ldap = false
@@ -45,20 +45,8 @@ ram.runtime = "50M"
     in_subdir = false
     extract = false
     rename = "zoraxy"
-    amd64.url = "https://github.com/tobychui/zoraxy/releases/download/3.1.1/zoraxy_linux_amd64"
-    amd64.sha256 = "3b6c237cea18f4bd9b0db79400d8bf24fc3d1f3ec5e6fa745eec8b8407a4f949"
-    i386.url = ""
-    i386.sha256 = ""
-    armhf.url = ""
-    armhf.sha256 = ""
-    arm64.url = ""
-    arm64.sha256 = ""
-
-    autoupdate.strategy = "latest_github_release"
-    autoupdate.asset.i386 = "^zoraxy_linux_386$"
-    autoupdate.asset.amd64 = "^zoraxy_linux_amd64$"
-    autoupdate.asset.armhf = "^zoraxy_linux_arm$"
-    autoupdate.asset.arm64 = "^zoraxy_linux_arm64$"
+    amd64.url = "https://github.com/tobychui/zoraxy/releases/download/v3.1.8/zoraxy_linux_amd64"
+    amd64.sha256 = "c91e101a4f6242a8f910a4cde3181fec0e11f582586198e7b2e1c19d1a7a5551"
 
     [resources.system_user]
 
