@@ -1,6 +1,7 @@
 [Unit]
-Description=Zoraxy: Reverse proxy and forwarding tool
-After=network.target
+Description=Zoraxy: Reverse proxy server
+After=network-online.target
+Wants=network-online.target
 
 [Service]
 Type=simple
