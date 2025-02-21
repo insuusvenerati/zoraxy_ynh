@@ -21,7 +21,7 @@ Hij mag NIET handmatig aangepast worden.
 Zoraxy is a new kid in reverse-proxy world written in Go, designed to simplify and streamline web routing and proxying. Zoraxy simplifies the process of setting up a reverse proxy, It serves as an intermediary between client requests and backend servers, effectively managing traffic flow. Whether you're running a small personal website or managing a complex web infrastructure, Zoraxy is designed to make these tasks accessible to all, regardless of your networking expertise.
 
 
-**Geleverde versie:** 3.1.1~ynh1
+**Geleverde versie:** 3.1.8~ynh1
 
 ## Schermafdrukken
 
