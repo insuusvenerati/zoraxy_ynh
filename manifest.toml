@@ -7,7 +7,7 @@ name = "Zoraxy"
 description.en = "General purpose HTTP reverse proxy and forwarding tool"
 description.fr = "Outil de proxy inverse et de transfert HTTP à usage général"
 
-version = "3.1.8~ynh1"
+version = "3.2.0~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -45,11 +45,11 @@ ram.runtime = "50M"
     in_subdir = false
     extract = false
     rename = "zoraxy"
-    amd64.url = "https://github.com/tobychui/zoraxy/releases/download/v3.1.8/zoraxy_linux_amd64"
-    amd64.sha256 = "c91e101a4f6242a8f910a4cde3181fec0e11f582586198e7b2e1c19d1a7a5551"
-    armhf.url = "https://github.com/tobychui/zoraxy/releases/download/v3.1.8/zoraxy_linux_arm"
+    amd64.url = "https://github.com/tobychui/zoraxy/releases/download/v3.2.0/zoraxy_linux_amd64"
+    amd64.sha256 = "121f98a0d5f71ba713e1a8d630ce21eb77fa4bd90772a06c7f34c32bb505ade4"
+    armhf.url = "https://github.com/tobychui/zoraxy/releases/download/v3.2.0/zoraxy_linux_arm"
     armhf.sha256 = "d3eac60f656b9c63af395fa8f9085b023c853ca254a2831295470a17f96cf506"
-    arm64.url = "https://github.com/tobychui/zoraxy/releases/download/v3.1.8/zoraxy_linux_arm64"
+    arm64.url = "https://github.com/tobychui/zoraxy/releases/download/v3.2.0/zoraxy_linux_arm64"
     arm64.sha256 = "e2fe86375b9e8fe918f09e42a25dc17cbf1782f28895563c0e0d3632441b3ca0"
 
     [resources.system_user]
